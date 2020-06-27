@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,googleapis.cn
 # Google Analytics
 DOMAIN-SUFFIX,analytics.google.com
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,analyticsinsights-pa.clients6.google.com
