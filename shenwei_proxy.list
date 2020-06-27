@@ -1,3 +1,6 @@
 # 北邮人
 DOMAIN-SUFFIX,byr.cn
 IP-CIDR6,2001:da8:215:4078:250:56ff:fe97:654d/128,no-resolve
+
+# Google Play商店
+DOMAIN-SUFFIX,googleapis.cn
