@@ -2,5 +2,11 @@
 DOMAIN-SUFFIX,tsinghua.edu.cn
 DOMAIN-SUFFIX,tsinghua.org.cn
 
+# UCAS
+DOMAIN-SUFFIX,ucas.ac.cn
+
+# cambricon
+DOMAIN-SUFFIX,cambricon.com
+
 # others
 DOMAIN-SUFFIX,lsjxs.cc
